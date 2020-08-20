@@ -1,7 +1,8 @@
-### Hi there 👋
+[![Chr_'s github stats](https://github-readme-stats.vercel.app/api?username=chr233&show_icons=true)](https://github.com/chr233)
 
 <!--
-**chr233/chr233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+**Peng-YM/Peng-YM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
