@@ -22,11 +22,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr233&theme=vue-dark&layout=compact&hide=css,html">
 </a>
 
-
 - 各种脚本语言 (包括但不限于 Python JS TS PHP Shell VBS)
 
 - ASF插件开发 [ASFEnhance](https://github.com/chr233/ASFEnhance)
 
-- 油猴脚本开发 [GM_Scripts](https://github.com/chr233/GM_Scripts)
+- 油猴脚本开发 [GM_Scripts](https://github.com/chr233/GM_Scripts) [GreasyFork](https://greasyfork.org/zh-CN/users/719636-chr233)
 
 - 咸鱼 CTFer
