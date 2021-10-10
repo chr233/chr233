@@ -1,12 +1,14 @@
 # Chr_
 
+> 博客：[Chrxw.com](https://blog.chrxw.com) 
+> 
 > 唯有南风知吾俞
 
 <a href="https://github.com/chr233">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=chr233&theme=vue-dark&show_icons=true">
 </a>
 
-个人博客：[Chrxw.com](https://blog.chrxw.com)
+个人简介
 
 - 咸鱼脚本开发者
 
