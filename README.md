@@ -30,4 +30,6 @@
 
 - 油猴脚本开发 [GM_Scripts](https://github.com/chr233/GM_Scripts) [GreasyFork](https://greasyfork.org/zh-CN/users/719636-chr233)
 
+- Web开发 [Gaylol.com](https://gaylol.com/)
+
 - 咸鱼 CTFer
