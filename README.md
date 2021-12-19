@@ -26,10 +26,18 @@
 
 - 各种脚本语言 (包括但不限于 Python JS TS PHP Shell VBS)
 
+- .NET 桌面应用开发
+
+- JAVA Web开发
+
+- Python Web开发 机器学习 大数据处理
+
+- 咸鱼 CTFer
+
+一些工程:
+
 - ASF插件开发 [ASFEnhance](https://github.com/chr233/ASFEnhance)
 
 - 油猴脚本开发 [GM_Scripts](https://github.com/chr233/GM_Scripts) [GreasyFork](https://greasyfork.org/zh-CN/users/719636-chr233)
 
 - Web开发 [Gaylol.com](https://gaylol.com/)
-
-- 咸鱼 CTFer
