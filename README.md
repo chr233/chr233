@@ -1,5 +1,8 @@
 # Chr_
 
+[![wakatime](https://wakatime.com/badge/user/b4bae5c0-fb6f-4358-a4e7-eac48974fd1a.svg)](https://wakatime.com/@b4bae5c0-fb6f-4358-a4e7-eac48974fd1a)
+[![GitHub followers](https://img.shields.io/github/followers/chr233?logo=github)](https://github.com/chr233?tab=followers)
+
 > 博客：[Chrxw.com](https://blog.chrxw.com) 
 > 
 > 唯有南风知吾俞
