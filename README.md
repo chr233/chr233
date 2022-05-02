@@ -43,4 +43,6 @@
 
 - 油猴脚本开发 [GM_Scripts](https://github.com/chr233/GM_Scripts) [GreasyFork](https://greasyfork.org/zh-CN/users/719636-chr233)
 
-- Web开发 [Gaylol.com](https://gaylol.com/)
+- Web开发 [catcatgame.com](http://catcatgame.com/)
+
+- 小黑盒客户端 [Xiaoheihe_CShape](https://github.com/chr233/Xiaoheihe_CShape)
