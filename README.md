@@ -27,9 +27,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr233&theme=vue-dark&layout=compact&hide=css,html">
 </a>
 
-- 各种脚本语言 (包括但不限于 Python JS TS PHP Shell VBS)
+- 脚本语言 (包括但不限于 Python JS TS PHP Shell VBS)
 
-- .NET 桌面应用开发
+- .NET
 
 - JAVA Web开发
 
