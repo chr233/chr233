@@ -17,7 +17,7 @@
 
 - 爱折腾 + 整活
 
-- 即将毕业的普通带学生
+- 刚刚毕业的普通带学生
 
 - FPS Galgame 爱好者
 
@@ -29,7 +29,9 @@
 
 - 脚本语言 (包括但不限于 Python JS TS PHP Shell VBS)
 
-- .NET
+- 嵌入式开发
+
+- .NET Core 桌面开发, Web开发
 
 - JAVA Web开发
 
@@ -45,4 +47,4 @@
 
 - Web开发 [catcatgame.com](http://catcatgame.com/)
 
-- 小黑盒客户端 [Xiaoheihe_CShape](https://github.com/chr233/Xiaoheihe_CShape)
+- C#小黑盒客户端 [Xiaoheihe_CShape](https://github.com/chr233/Xiaoheihe_CShape)
