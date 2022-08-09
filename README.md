@@ -41,6 +41,10 @@
 
 一些工程：
 
+<a href="#">
+  <img align="right" src="https://count.getloli.com/get/@chr33?theme=gelbooru">
+</a>
+
 - ASF插件开发 [ASFEnhance](https://github.com/chr233/ASFEnhance)
 
 - 油猴脚本开发 [GM_Scripts](https://github.com/chr233/GM_Scripts) [GreasyFork](https://greasyfork.org/zh-CN/users/719636-chr233)
@@ -48,3 +52,5 @@
 - Web开发 [catcatgame.com](http://catcatgame.com/)
 
 - C#小黑盒客户端 [Xiaoheihe_CShape](https://github.com/chr233/Xiaoheihe_CShape)
+
+- Telegram投稿机器人 [XinjingdailyBot](https://github.com/chr233/XinjingdailyBot)
