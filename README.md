@@ -43,7 +43,7 @@
 
 - Python Web开发 机器学习 大数据处理
 
-- 咸鱼 CTFer
+- 咸鱼 CTFer, 主攻Re, Misc, Pwn
 
 一些工程：
 
