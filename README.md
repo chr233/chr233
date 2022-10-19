@@ -4,9 +4,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/chr233?logo=github)](https://github.com/chr233?tab=followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/chr233?logo=github&style=plastic)
 
-[![爱发电](https://img.shields.io/badge/爱发电-chr__-ea4aaa.svg?logo=github-sponsors)](https://afdian.net/@chr233)
 [![Bilibili](https://img.shields.io/badge/bilibili-Chr__-00A2D8.svg?logo=bilibili)](https://space.bilibili.com/5805394)
 [![Steam](https://img.shields.io/badge/steam-Chr__-1B2838.svg?logo=steam)](https://steamcommunity.com/id/Chr_)
+
+[![爱发电](https://img.shields.io/badge/爱发电-chr__-ea4aaa.svg?logo=github-sponsors)](https://afdian.net/@chr233)
 [![Steam](https://img.shields.io/badge/steam-donate-1B2838.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=221260487&token=xgqMgL-i)
 
 > 博客：[Chrxw.com](https://blog.chrxw.com) 
