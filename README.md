@@ -14,7 +14,7 @@
 > 
 > 唯有南风知吾俞
 
-<a href="https://github.com/chr233">
+<a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=chr233&theme=vue-dark&show_icons=true">
 </a>
 
