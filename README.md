@@ -13,6 +13,10 @@
 
 ## 链接
 
+<a href="#">
+  <img align="right" src="https://count.getloli.com/get/@chr33?theme=gelbooru">
+</a>
+
 - 博客：[chrxw.com](https://blog.chrxw.com) 
 > 唯有南风知吾俞
 
@@ -52,10 +56,6 @@
 - 咸鱼 CTFer, 主攻Re, Misc, Pwn
 
 ## 一些工程
-
-<a href="#">
-  <img align="right" src="https://count.getloli.com/get/@chr33?theme=gelbooru">
-</a>
 
 - ASF插件开发 [ASFEnhance](https://github.com/chr233/ASFEnhance)
 
