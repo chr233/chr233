@@ -29,9 +29,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=chr233&theme=vue-dark&show_icons=true">
 </a>
 
-- 咸鱼脚本开发者
+- 全职 Java / .NET 开发
 
-- 爱折腾 + 整活
+- 咸鱼脚本开发者
 
 - 刚刚毕业的普通带学生
 
@@ -47,9 +47,9 @@
 
 - 嵌入式开发
 
-- .NET 桌面开发, Web开发
+- .NET Web开发
 
-- Java Spring Boot 和 Netty
+- Java Web开发 Netty
 
 - Python Web开发 爬虫
 
@@ -62,7 +62,5 @@
 - Telegram投稿机器人 [XinjingdailyBot](https://github.com/chr233/XinjingdailyBot)
 
 - 油猴脚本开发 [GM_Scripts](https://github.com/chr233/GM_Scripts) [GreasyFork](https://greasyfork.org/zh-CN/users/719636-chr233)
-
-- Web开发 [catcatgame.com](http://catcatgame.com/)
 
 - C#小黑盒客户端 [Xiaoheihe_CShape](https://github.com/chr233/Xiaoheihe_CShape)
