@@ -21,7 +21,7 @@
   <img align="right" src="https://count.getloli.com/get/@chr33?theme=gelbooru">
 </a>
 
-- 博客：[chrxw.com](https://blog.chrxw.com) 
+- 博客: [chrxw.com](https://blog.chrxw.com) 
 > 唯有南风知吾俞
 
 - Telegram 频道: [Xinjingdaily](https://t.me/xinjingdaily)
