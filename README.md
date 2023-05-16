@@ -61,12 +61,24 @@
 
 - 菜鸡前端 原生JS Vue React
 
-## 一些工程
+## 维护中的项目
 
-- ASF插件开发 [ASFEnhance](https://github.com/chr233/ASFEnhance)
-
+- ASF插件
+  - 更多实用命令 [ASFEnhance](https://github.com/chr233/ASFEnhance)
+  - Buff发货机器人 [ASFBuffBot](https://github.com/chr233/ASFBuffBot)
+  - OAuth自动登录 [ASFOAuth](https://github.com/chr233/ASFOAuth)
+  - 交易功能扩展 [ASFTradeExtension](https://github.com/chr233/ASFTradeExtension)
+  
 - Telegram投稿机器人 [XinjingdailyBot](https://github.com/chr233/XinjingdailyBot)
 
 - 油猴脚本开发 [GM_Scripts](https://github.com/chr233/GM_Scripts) [GreasyFork](https://greasyfork.org/zh-CN/users/719636-chr233)
 
+## 存档项目
+
+- Trx交易查询机器人 [TrxBot](https://github.com/chr233/)
+
 - C#小黑盒客户端 [Xiaoheihe_CShape](https://github.com/chr233/Xiaoheihe_CShape)
+
+- Python小黑盒签到脚本 [xhh_auto](https://github.com/chr233/xhh_auto)
+
+- 备份大文件到 QQ邮箱 [backup_by_mail](https://github.com/chr233/backup_by_mail)
