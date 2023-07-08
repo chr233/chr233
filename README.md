@@ -35,6 +35,8 @@
 
 - 全职 Java / .NET 开发
 
+- 安卓 Kotlin / MAUI / Xposed 开发
+
 - 咸鱼脚本开发者
 
 - 刚刚毕业的普通带学生
@@ -68,7 +70,9 @@
   - Buff发货机器人 [ASFBuffBot](https://github.com/chr233/ASFBuffBot)
   - OAuth自动登录 [ASFOAuth](https://github.com/chr233/ASFOAuth)
   - 交易功能扩展 [ASFTradeExtension](https://github.com/chr233/ASFTradeExtension)
-  
+
+- NGA论坛APP去广告插件 [PureNGA](https://github.com/chr233/PureNGA)
+
 - Telegram投稿机器人 [XinjingdailyBot](https://github.com/chr233/XinjingdailyBot)
 
 - 油猴脚本开发 [GM_Scripts](https://github.com/chr233/GM_Scripts) [GreasyFork](https://greasyfork.org/zh-CN/users/719636-chr233)
