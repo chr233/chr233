@@ -49,11 +49,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr233&theme=vue-dark&layout=compact&hide=css,html">
 </a>
 
-- 脚本语言开发 (包括但不限于 Python JS TS PHP Shell VBS)
+- 脚本语言开发 (包括但不限于 Python JS TS ~~PHP~~ Shell VBS)
 
-- 嵌入式开发
-
-- .NET Web开发
+- .NET Web开发 WinForm开发, MAUI 开发
 
 - Java Web开发 Netty
 
@@ -61,7 +59,9 @@
 
 - 咸鱼 CTFer, 主攻Re, Misc, Pwn
 
-- 菜鸡前端 原生JS Vue React
+- ~~菜鸡前端 原生JS Vue React~~
+
+- ~~嵌入式开发~~ (基本忘光了)
 
 ## 维护中的项目
 
