@@ -66,16 +66,23 @@
 ## 维护中的项目
 
 - ASF插件
-  - 更多实用命令 [ASFEnhance](https://github.com/chr233/ASFEnhance)
-  - Buff发货机器人 [ASFBuffBot](https://github.com/chr233/ASFBuffBot)
-  - OAuth自动登录 [ASFOAuth](https://github.com/chr233/ASFOAuth)
-  - 交易功能扩展 [ASFTradeExtension](https://github.com/chr233/ASFTradeExtension)
+  - 更多实用命令 [ASFEnhance](https://github.com/chr233/ASFEnhance) ![img](https://img.shields.io/github/downloads/chr233/ASFEnhance/total
+) ![img](https://img.shields.io/github/stars/chr233/ASFEnhance)
 
-- NGA论坛APP去广告插件 [PureNGA](https://github.com/chr233/PureNGA)
+  - Buff发货机器人 [ASFBuffBot](https://github.com/chr233/ASFBuffBot) ![img](https://img.shields.io/github/downloads/chr233/ASFBuffBot/total
+) ![img](https://img.shields.io/github/stars/chr233/ASFBuffBot)
+  - OAuth自动登录 [ASFOAuth](https://github.com/chr233/ASFOAuth) ![img](https://img.shields.io/github/downloads/chr233/ASFOAuth/total
+) ![img](https://img.shields.io/github/stars/chr233/ASFOAuth)
+  - 交易功能扩展 [ASFTradeExtension](https://github.com/chr233/ASFTradeExtension) ![img](https://img.shields.io/github/downloads/chr233/ASFTradeExtension/total
+) ![img](https://img.shields.io/github/stars/chr233/ASFTradeExtension)
 
-- Telegram投稿机器人 [XinjingdailyBot](https://github.com/chr233/XinjingdailyBot)
+- NGA论坛APP去广告插件 [PureNGA](https://github.com/chr233/PureNGA) ![img](https://img.shields.io/github/downloads/chr233/PureNGA/total
+) ![img](https://img.shields.io/github/stars/chr233/PureNGA)
 
-- 油猴脚本开发 [GM_Scripts](https://github.com/chr233/GM_Scripts) [GreasyFork](https://greasyfork.org/zh-CN/users/719636-chr233)
+- Telegram投稿机器人 [XinjingdailyBot](https://github.com/chr233/XinjingdailyBot) ![img](https://img.shields.io/github/downloads/chr233/XinjingdailyBot/total
+) ![img](https://img.shields.io/github/stars/chr233/XinjingdailyBot)
+
+- 油猴脚本开发 [GM_Scripts](https://github.com/chr233/GM_Scripts) [GreasyFork](https://greasyfork.org/zh-CN/users/719636-chr233) ![img](https://img.shields.io/github/stars/chr233/GM_Scripts)
 
 ## 存档项目
 
