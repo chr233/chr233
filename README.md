@@ -77,6 +77,8 @@
   
   - 交易功能扩展 [ASFTradeExtension](https://github.com/chr233/ASFTradeExtension) ![img](https://img.shields.io/github/downloads/chr233/ASFTradeExtension/total) ![img](https://img.shields.io/github/stars/chr233/ASFTradeExtension)
 
+  - 成就管理器Ex [ASFAchievementManagerEx](https://github.com/chr233/ASFAchievementManagerEx) ![img](https://img.shields.io/github/downloads/chr233/ASFAchievementManagerEx/total) ![img](https://img.shields.io/github/stars/chr233/ASFAchievementManagerEx)
+
 - NGA 论坛 APP 去广告插件 [PureNGA](https://github.com/chr233/PureNGA)
   - [独立插件版](https://github.com/Xposed-Modules-Repo/com.chrxw.purenga/releases) ![img](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.chrxw.purenga/total) ![img](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.chrxw.purenga)
   
