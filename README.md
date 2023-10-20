@@ -41,8 +41,8 @@
 
 - 咸鱼脚本开发者
 
-- 刚刚毕业的普通带学生
-
+- 毕业时长一年半的普通打工人
+  
 - FPS Galgame 爱好者
 
 ## 技能树
@@ -61,9 +61,9 @@
 
 - 咸鱼 CTFer, 主攻 Re, Misc, ~~Pwn~~
 
-- ~~菜鸡前端 原生 JS Vue React~~
+- ~~菜鸡前端 原生 JS Vue React~~ （忘光了）
 
-- ~~嵌入式开发~~
+- ~~嵌入式开发~~ （忘光了）
 
 ## 维护中的项目
 
@@ -80,13 +80,15 @@
   - 成就管理器Ex [ASFAchievementManagerEx](https://github.com/chr233/ASFAchievementManagerEx) ![img](https://img.shields.io/github/downloads/chr233/ASFAchievementManagerEx/total) ![img](https://img.shields.io/github/stars/chr233/ASFAchievementManagerEx)
 
 - NGA 论坛 APP 去广告插件 [PureNGA](https://github.com/chr233/PureNGA)
+  
   - [独立插件版](https://github.com/Xposed-Modules-Repo/com.chrxw.purenga/releases) ![img](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.chrxw.purenga/total) ![img](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.chrxw.purenga)
   
   - [整合版 NGA](https://github.com/chr233/PureNGA/releases/tag/NGA) ![img](https://img.shields.io/github/downloads/chr233/PureNGA/total) ![img](https://img.shields.io/github/stars/chr233/PureNGA)
 
 - Telegram 投稿机器人 [XinjingdailyBot](https://github.com/chr233/XinjingdailyBot) ![img](https://img.shields.io/github/downloads/chr233/XinjingdailyBot/total) ![img](https://img.shields.io/github/stars/chr233/XinjingdailyBot)
 
-- 油猴脚本开发 
+- 油猴脚本开发
+  
   - [GM_Scripts](https://github.com/chr233/GM_Scripts)  ![img](https://img.shields.io/github/stars/chr233/GM_Scripts)
   
   - [GreasyFork](https://greasyfork.org/zh-CN/users/719636-chr233)
@@ -95,7 +97,7 @@
 
 - Trx 交易查询机器人 [TrxBot](https://github.com/chr233/)
 
-- C#小黑盒客户端 [Xiaoheihe_CShape](https://github.com/chr233/Xiaoheihe_CShape)
+- C# 小黑盒客户端 [Xiaoheihe_CShape](https://github.com/chr233/Xiaoheihe_CShape)
 
 - Python 小黑盒签到脚本 [xhh_auto](https://github.com/chr233/xhh_auto)
 
