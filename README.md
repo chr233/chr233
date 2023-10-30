@@ -79,6 +79,10 @@
 
   - 成就管理器Ex [ASFAchievementManagerEx](https://github.com/chr233/ASFAchievementManagerEx) ![img](https://img.shields.io/github/downloads/chr233/ASFAchievementManagerEx/total) ![img](https://img.shields.io/github/stars/chr233/ASFAchievementManagerEx)
 
+  - 点赞插件 ASFLike (暂未公开)
+
+  - 卡牌发货插件 ASFLevelUpBot (暂未公开)
+
 - NGA 论坛 APP 去广告插件 [PureNGA](https://github.com/chr233/PureNGA)
   
   - [独立插件版](https://github.com/Xposed-Modules-Repo/com.chrxw.purenga/releases) ![img](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.chrxw.purenga/total) ![img](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.chrxw.purenga)
