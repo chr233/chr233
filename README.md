@@ -1,5 +1,13 @@
 # Chr\_
 
+---
+
+> 工作遇挫, 休息一段时间, 个人项目可能会暂停更新一段时间, 最早明年回归
+> 
+> 如有打扰不胜荣幸
+
+---
+
 [![wakatime](https://wakatime.com/badge/user/b4bae5c0-fb6f-4358-a4e7-eac48974fd1a.svg)](https://wakatime.com/@b4bae5c0-fb6f-4358-a4e7-eac48974fd1a)
 [![GitHub followers](https://img.shields.io/github/followers/chr233?logo=github)](https://github.com/chr233?tab=followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/chr233?logo=github)
