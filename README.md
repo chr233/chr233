@@ -15,6 +15,11 @@
 [![buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-chr233-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/chr233)
 [![爱发电](https://img.shields.io/badge/爱发电-chr__-ea4aaa.svg?logo=github-sponsors)](https://afdian.net/@chr233)
 
+我很可爱, 请给我打钱.jpg
+
+|![img](./afadian_qr.png)|![img](./bmc_qr.png)|
+|-|-|
+
 ## 链接
 
 <a href="#">
