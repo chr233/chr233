@@ -9,7 +9,7 @@
 
 ---
 
-捐赠
+## 捐赠 / Donate
 
 [![Steam](https://img.shields.io/badge/steam-trade%20link-1B2838.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=221260487&token=xgqMgL-i)
 [![buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-chr233-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/chr233)
@@ -17,10 +17,13 @@
 
 我很可爱, 请给我打钱.jpg
 
-|![img](./afadian_qr.png)|![img](./bmc_qr.png)|
-|-|-|
+| ![img](./afadian_qr.png) | ![img](./bmc_qr.png) | ![img](./usdt_qr.png) |
+| :----------------------: | :------------------: | :-------------------: |
+|          爱发电          |     buymeacoffee     |  USDT (TRC20/TRC20)   |
 
-## 链接
+> 钱包地址: `TW41eecZ199QK6zujgKP4j1cz2bXzRus3c`
+
+## 链接 / Links
 
 <a href="#">
   <img align="right" src="https://count.getloli.com/get/@chr33?theme=gelbooru">
@@ -34,7 +37,7 @@
 
   > 沙雕图频道
 
-## 个人简介
+## 个人简介 / Smmary
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=chr233&theme=vue-dark&show_icons=true">
@@ -50,7 +53,7 @@
   
 - FPS Galgame 爱好者
 
-## 技能树
+## 技能树 / Skills
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr233&theme=vue-dark&layout=compact&hide=css,html">
@@ -70,7 +73,7 @@
 
 - ~~嵌入式开发~~ （忘光了）
 
-## 维护中的项目
+## 维护中的项目 / Projects under maintenance
 
 - ASF 插件
 
@@ -102,7 +105,7 @@
   
   - [GreasyFork](https://greasyfork.org/zh-CN/users/719636-chr233)
 
-## 存档项目
+## 存档项目 / Archived projects
 
 - Trx 交易查询机器人 [TrxBot](https://github.com/chr233/)
 
