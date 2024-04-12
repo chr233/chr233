@@ -15,9 +15,9 @@
 
 我很可爱, 请给我打钱.jpg
 
-|          ![img][afdian_qr]           |              ![img][bmac_qr]              |  ![img][usdt_qr]  |
-| :----------------------------------: | :---------------------------------------: | :---------------: |
-| [![爱发电][afdian_img]][afdian_link] | [![buy me a coffee][bmac_img]][bmac_link] | ![USDT][usdt_img] |
+|               ![img][afdian_qr]                |                   ![img][bmac_qr]                   |                       ![img][usdt_qr]                       |
+| :--------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------------: |
+| ![爱发电][afdian_img] <br> [链接][afdian_link] | ![buy me a coffee][bmac_img] <br> [链接][bmac_link] | ![USDT][usdt_img] <br> `TW41eecZ199QK6zujgKP4j1cz2bXzRus3c` |
 
 [afdian_qr]: https://raw.chrxw.com/chr233/master/afadian_qr.png
 [afdian_img]: https://img.shields.io/badge/爱发电-@chr__-ea4aaa.svg?logo=github-sponsors
@@ -27,8 +27,6 @@
 [bmac_link]: https://www.buymeacoffee.com/chr233
 [usdt_qr]: https://raw.chrxw.com/chr233/master/usdt_qr.png
 [usdt_img]: https://img.shields.io/badge/USDT-TRC20-2354e6.svg?logo=bitcoin
-
-> 钱包地址 / Wallet Address: `TW41eecZ199QK6zujgKP4j1cz2bXzRus3c`
 
 ## 链接 / Links
 
