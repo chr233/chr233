@@ -1,10 +1,17 @@
 # Chr\_
 
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=chr233&theme=vue-dark&show_icons=true">
+</a>
+
 [![wakatime](https://wakatime.com/badge/user/b4bae5c0-fb6f-4358-a4e7-eac48974fd1a.svg)](https://wakatime.com/@b4bae5c0-fb6f-4358-a4e7-eac48974fd1a)
+
 [![GitHub followers](https://img.shields.io/github/followers/chr233?logo=github)](https://github.com/chr233?tab=followers)
+
 ![GitHub User's stars](https://img.shields.io/github/stars/chr233?logo=github)
 
 [![Bilibili](https://img.shields.io/badge/bilibili-Chr__-00A2D8.svg?logo=bilibili)](https://space.bilibili.com/5805394)
+
 [![Steam](https://img.shields.io/badge/steam-Chr__-1B2838.svg?logo=steam)](https://steamcommunity.com/id/Chr_)
 
 ---
@@ -43,10 +50,6 @@
   > 沙雕图频道
 
 ## 个人简介 / Smmary
-
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=chr233&theme=vue-dark&show_icons=true">
-</a>
 
 - 全职 Java / .NET 开发
 
