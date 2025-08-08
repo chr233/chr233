@@ -93,7 +93,11 @@
   
   - 交易功能扩展 [ASFTradeExtension](https://github.com/chr233/ASFTradeExtension) ![img](https://img.shields.io/github/downloads/chr233/ASFTradeExtension/total) ![img](https://img.shields.io/github/stars/chr233/ASFTradeExtension)
 
-  - 成就管理器Ex [ASFAchievementManagerEx](https://github.com/chr233/ASFAchievementManagerEx) ![img](https://img.shields.io/github/downloads/chr233/ASFAchievementManagerEx/total) ![img](https://img.shields.io/github/stars/chr233/ASFAchievementManagerEx)
+  - 多重代理扩展 [ASFMultipleProxy](https://github.com/chr233/ASFMultipleProxy) ![img](https://img.shields.io/github/downloads/chr233/ASFMultipleProxy/total) ![img](https://img.shields.io/github/stars/chr233/ASFMultipleProxy)
+ 
+  - 批量运行命令 [ASFBatchCmd](https://github.com/chr233/ASFBatchCmd) ![img](https://img.shields.io/github/downloads/chr233/ASFBatchCmd/total) ![img](https://img.shields.io/github/stars/chr233/ASFBatchCmd)
+ 
+  - 聊天记录导出 [ASFChatDumper](https://github.com/chr233/ASFChatDumper) ![img](https://img.shields.io/github/downloads/chr233/ASFChatDumper/total) ![img](https://img.shields.io/github/stars/chr233/ASFChatDumper)
 
   - 点赞插件 ASFLike (暂未公开)
 
@@ -122,3 +126,5 @@
 - Python 小黑盒签到脚本 [xhh_auto](https://github.com/chr233/xhh_auto)
 
 - 备份大文件到 QQ 邮箱 [backup_by_mail](https://github.com/chr233/backup_by_mail)
+
+- 成就管理器Ex [ASFAchievementManagerEx](https://github.com/chr233/ASFAchievementManagerEx) ![img](https://img.shields.io/github/downloads/chr233/ASFAchievementManagerEx/total) ![img](https://img.shields.io/github/stars/chr233/ASFAchievementManagerEx)
