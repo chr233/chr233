@@ -20,20 +20,20 @@
 
 [![Steam](https://img.shields.io/badge/steam-trade%20link-1B2838.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=221260487&token=xgqMgL-i)
 
-我很可爱, 请给我打钱.jpg
+[![爱发电][afdian_img] ][afdian_link]
 
-|               ![img][afdian_qr]                |                   ![img][bmac_qr]                   |                       ![img][usdt_qr]                       |
-| :--------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------------: |
-| ![爱发电][afdian_img] <br> [链接][afdian_link] | ![buy me a coffee][bmac_img] <br> [链接][bmac_link] | ![USDT][usdt_img] <br> `TW41eecZ199QK6zujgKP4j1cz2bXzRus3c` |
+[![buy me a coffee][bmac_img] ][bmac_link]
 
-[afdian_qr]: https://raw.chrxw.com/chr233/master/afadian_qr.png
+[我很可爱, 请给我打钱.jpg](/DONATE.md)
+
+<a href="#">
+  <img style="width:300px" src="https://raw.chrxw.com/chr233/master/afadian.png">
+</a>
+
 [afdian_img]: https://img.shields.io/badge/爱发电-@chr__-ea4aaa.svg?logo=github-sponsors
 [afdian_link]: https://afdian.com/@chr233
-[bmac_qr]: https://raw.chrxw.com/chr233/master/bmc_qr.png
 [bmac_img]: https://img.shields.io/badge/buy%20me%20a%20coffee-@chr233-yellow?logo=buymeacoffee
 [bmac_link]: https://www.buymeacoffee.com/chr233
-[usdt_qr]: https://raw.chrxw.com/chr233/master/usdt_qr.png
-[usdt_img]: https://img.shields.io/badge/USDT-TRC20-2354e6.svg?logo=bitcoin
 
 ## 链接 / Links
 
@@ -58,7 +58,6 @@
 - 咸鱼脚本开发者
 
 - 毕业时长一年半的普通打工人
-  
 - FPS Galgame 爱好者
 
 ## 技能树 / Skills
@@ -88,15 +87,15 @@
   - 更多实用命令 [ASFEnhance](https://github.com/chr233/ASFEnhance) ![img](https://img.shields.io/github/downloads/chr233/ASFEnhance/total) ![img](https://img.shields.io/github/stars/chr233/ASFEnhance)
 
   - Buff 发货机器人 [ASFBuffBot](https://github.com/chr233/ASFBuffBot) ![img](https://img.shields.io/github/downloads/chr233/ASFBuffBot/total) ![img](https://img.shields.io/github/stars/chr233/ASFBuffBot)
-  
+
   - OAuth 自动登录 [ASFOAuth](https://github.com/chr233/ASFOAuth) ![img](https://img.shields.io/github/downloads/chr233/ASFOAuth/total) ![img](https://img.shields.io/github/stars/chr233/ASFOAuth)
-  
+
   - 交易功能扩展 [ASFTradeExtension](https://github.com/chr233/ASFTradeExtension) ![img](https://img.shields.io/github/downloads/chr233/ASFTradeExtension/total) ![img](https://img.shields.io/github/stars/chr233/ASFTradeExtension)
 
   - 多重代理扩展 [ASFMultipleProxy](https://github.com/chr233/ASFMultipleProxy) ![img](https://img.shields.io/github/downloads/chr233/ASFMultipleProxy/total) ![img](https://img.shields.io/github/stars/chr233/ASFMultipleProxy)
- 
+
   - 批量运行命令 [ASFBatchCmd](https://github.com/chr233/ASFBatchCmd) ![img](https://img.shields.io/github/downloads/chr233/ASFBatchCmd/total) ![img](https://img.shields.io/github/stars/chr233/ASFBatchCmd)
- 
+
   - 聊天记录导出 [ASFChatDumper](https://github.com/chr233/ASFChatDumper) ![img](https://img.shields.io/github/downloads/chr233/ASFChatDumper/total) ![img](https://img.shields.io/github/stars/chr233/ASFChatDumper)
 
   - 点赞插件 ASFLike (暂未公开)
@@ -104,17 +103,17 @@
   - 卡牌发货插件 ASFLevelUpBot (暂未公开)
 
 - NGA 论坛 APP 去广告插件 [PureNGA](https://github.com/chr233/PureNGA)
-  
+
   - [独立插件版](https://github.com/Xposed-Modules-Repo/com.chrxw.purenga/releases) ![img](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.chrxw.purenga/total) ![img](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.chrxw.purenga)
-  
+
   - [整合版 NGA](https://github.com/chr233/PureNGA/releases/tag/NGA) ![img](https://img.shields.io/github/downloads/chr233/PureNGA/total) ![img](https://img.shields.io/github/stars/chr233/PureNGA)
 
 - Telegram 投稿机器人 [XinjingdailyBot](https://github.com/chr233/XinjingdailyBot) ![img](https://img.shields.io/github/downloads/chr233/XinjingdailyBot/total) ![img](https://img.shields.io/github/stars/chr233/XinjingdailyBot)
 
 - 油猴脚本开发
-  
-  - [GM_Scripts](https://github.com/chr233/GM_Scripts)  ![img](https://img.shields.io/github/stars/chr233/GM_Scripts)
-  
+
+  - [GM_Scripts](https://github.com/chr233/GM_Scripts) ![img](https://img.shields.io/github/stars/chr233/GM_Scripts)
+
   - [GreasyFork](https://greasyfork.org/zh-CN/users/719636-chr233)
 
 ## 存档项目 / Archived projects
@@ -127,4 +126,4 @@
 
 - 备份大文件到 QQ 邮箱 [backup_by_mail](https://github.com/chr233/backup_by_mail)
 
-- 成就管理器Ex [ASFAchievementManagerEx](https://github.com/chr233/ASFAchievementManagerEx) ![img](https://img.shields.io/github/downloads/chr233/ASFAchievementManagerEx/total) ![img](https://img.shields.io/github/stars/chr233/ASFAchievementManagerEx)
+- 成就管理器 Ex [ASFAchievementManagerEx](https://github.com/chr233/ASFAchievementManagerEx) ![img](https://img.shields.io/github/downloads/chr233/ASFAchievementManagerEx/total) ![img](https://img.shields.io/github/stars/chr233/ASFAchievementManagerEx)
